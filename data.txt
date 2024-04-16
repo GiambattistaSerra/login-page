@@ -1,0 +1,6 @@
+user, psw_hash
+admin,1d12c40b09080aa328c775fc60ee2655
+Barbara,a722c63db8ec8625af6cf71cb8c2d939
+Stefano,c1572d05424d0ecb2a65ec6a82aeacbf
+Giovanni,3afc79b597f88a72528e864cf81856d2
+Davide,fc2921d9057ac44e549efaf0048b2512
